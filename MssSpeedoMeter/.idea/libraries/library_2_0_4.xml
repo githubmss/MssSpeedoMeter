@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="library-2.0.4">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/demoapp/build/intermediates/exploded-aar/me.zhanghai.android.patternlock/library/2.0.4/res" />
+      <root url="jar://$PROJECT_DIR$/demoapp/build/intermediates/exploded-aar/me.zhanghai.android.patternlock/library/2.0.4/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/me.zhanghai.android.patternlock/library/2.0.4/3e8bd85398ee7f4f3592427fdc01fda06be43271/library-2.0.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
